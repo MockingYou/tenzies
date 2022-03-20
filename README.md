@@ -1,1 +1,6 @@
 # tenzies
+
+## Run
+```
+npm start
+```
